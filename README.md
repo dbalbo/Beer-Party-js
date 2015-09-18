@@ -1,11 +1,16 @@
-Beer Party
-Synopsis
+#Beer Party
+---
+
+## Synopsis
+
 Beer Party is a simple JavaScript app that using looping to create the song, "99 bottles of beer on the wall". 
 
-Motivation
+## Motivation
+
 Beer Party was created for a code review for Epicodus Fall 2015 class. 
 
-Installation
+## Installation
+
 Beer Party uses the following:
 
     Chai.js
@@ -16,10 +21,12 @@ Beer Party uses the following:
 
 All necessary versions are included within the application's project folder. As such, simply fork or clone, and run the index.html file in the browser.
 
-Tests
+## Tests
+
 Tests for Beer Party utilize Chai.js and Mocha.js. To test, run the spec-runner.html file included in the project folder. Additional tests may be written directly into this file.
 
-Credit
+## Credit
+
 Beer Party utilizes both Hover.css created by Ian Lunn and Animate.css by Dan Eden for miscellaneous animated effects.
 
 Happy Drinking!
